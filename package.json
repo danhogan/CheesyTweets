@@ -1,0 +1,10 @@
+{
+  "name": "cheesyTweets",
+  "version": "0.0.1",
+  "description": "the cheesiest of tweets",
+  "dependencies": {
+    "express": "^4.9.7",
+    "socket.io": "^1.1.0",
+    "twit": "^1.1.18"
+  }
+}

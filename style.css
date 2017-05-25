@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h2 {
+	text-align: center;
+	text-decoration: underline;
+}
+
+#tweets {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#tweets li {
+	padding: 5px 10px;
+}
+
+#tweets li:nth-child(odd) {
+	background: #eee;
+}
